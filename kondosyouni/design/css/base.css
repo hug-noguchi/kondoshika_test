@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+/* for bootstrap fontawesome data-layout */
+@import "./import-base-frame.css";
+
+/* for jQuery plugin richcontents */
+@import "./import-base-richcontents.css";

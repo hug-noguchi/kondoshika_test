@@ -1,0 +1,121 @@
+@charset "UTF-8";
+/*
+ * 全体
+ */
+.container {
+  position: relative;
+}
+/*
+ * グローバルナビゲーション
+ */
+nav ul#global-nav1:after {
+  content: ".";
+  display: block;
+  height: 0;
+  font-size:0;
+  clear: both;
+  visibility:hidden;
+}
+nav ul#global-nav1 li a {
+  z-index: 0;
+  white-space: nowrap;
+  overflow: hidden;
+}
+nav ul#global-nav2 li a {
+/*  white-space: nowrap;*/
+  overflow: hidden;
+}
+nav > ul#global-nav1 > li {
+  float: left;
+}
+nav.global-nav-upper-item7 > ul#global-nav1 > li {
+  width: 14.2857142857%;
+}
+nav.global-nav-upper-item6 > ul#global-nav1 > li {
+  width: 16.6666666666%;
+}
+nav.global-nav-upper-item5 > ul#global-nav1 > li {
+  width: 20%;
+}
+nav.global-nav-upper-item4 > ul#global-nav1 > li {
+  width: 25%;
+}
+nav > ul#global-nav1 > li > ul > li {
+  overflow: hidden;
+  height: 0;
+  border: none !important;
+}
+nav ul#global-nav1 li:hover ul {
+  z-index: 100;
+  display: block;
+  position: absolute;
+  width: 100%;
+  -moz-box-shadow: 0 5px 5px 2px rgba(0,0,0,0.2);
+  -webkit-box-shadow: 0 5px 5px 2px rgba(0,0,0,0.2);
+  -ms-box-shadow: 0 5px 5px 2px rgba(0,0,0,0.2);
+}
+nav ul#global-nav1 li:hover ul li {
+  overflow: visible;
+  width: 100%;
+  height: 40px;
+}
+@media (min-width:768px) and (max-width:979px) {
+  nav > ul#global-nav1 > li,
+  nav > ul#global-nav2 > li {
+  font-size: 12px;
+  }
+}
+/*
+ * フッターリンク
+ */
+ul#footer-link-list {
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+  text-align: left;
+  font-size: 0;
+}
+ul#footer-link-list li {
+  display: inline-block;
+  width: 19%;
+  margin: 0 1% 10px 0;
+  vertical-align: top;
+  font-size: 11px;
+}
+ul#footer-link-list li a {
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+/*
+ * パンくずリスト
+ */
+ol#breadcrumb {
+  margin-top: -10px;
+  margin-left: 0;
+  font-size: 10px;
+}
+
+@media screen and (max-width: 767px) {
+  ol#breadcrumb{
+    margin-top: 0px;
+  }
+}
+
+ol#breadcrumb li {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+  vertical-align: top;
+}
+
+ol#breadcrumb li::after {
+  content: '>';
+  padding 0 3px 0 3px;
+}
+
+ol#breadcrumb li:last-child::after {
+  content: '';
+}

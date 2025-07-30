@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="icon_email" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="50px" height="50px" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
+<rect x="2.75" y="8.25" fill="#FFFFFF" width="44.5" height="33.5"/>
+<path fill="#77C10E" d="M45.313,6.25H4.688C2.1,6.25,0,8.349,0,10.937v28.125c0,2.59,2.1,4.688,4.688,4.688h40.625
+	c2.59,0,4.688-2.098,4.688-4.688V10.937C50,8.349,47.9,6.25,45.313,6.25z M45.313,10.937v3.984c-2.188,1.783-5.68,4.557-13.143,10.4
+	c-1.646,1.293-4.902,4.402-7.17,4.367c-2.268,0.035-5.525-3.072-7.17-4.367c-7.461-5.844-10.953-8.616-13.143-10.4v-3.984H45.313z
+	 M4.688,39.063V20.937c2.238,1.783,5.412,4.283,10.248,8.071c2.135,1.682,5.873,5.391,10.064,5.367
+	c4.172,0.021,7.861-3.633,10.063-5.367c4.838-3.786,8.013-6.288,10.25-8.071v18.125H4.688L4.688,39.063z"/>
+</svg>

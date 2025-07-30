@@ -1,0 +1,1110 @@
+@charset "UTF-8";
+nav.global-nav-upper-F005-red,
+nav.global-nav-side-F005-red,
+nav.global-nav-upper-F005-orange,
+nav.global-nav-side-F005-orange,
+nav.global-nav-upper-F005-yellow,
+nav.global-nav-side-F005-yellow,
+nav.global-nav-upper-F005-yellowgreen,
+nav.global-nav-side-F005-yellowgreen,
+nav.global-nav-upper-F005-green,
+nav.global-nav-side-F005-green,
+nav.global-nav-upper-F005-aqua,
+nav.global-nav-side-F005-aqua,
+nav.global-nav-upper-F005-blue,
+nav.global-nav-side-F005-blue,
+nav.global-nav-upper-F005-brown,
+nav.global-nav-side-F005-brown,
+nav.global-nav-upper-F005-pink,
+nav.global-nav-side-F005-pink,
+nav.global-nav-upper-F005-purple,
+nav.global-nav-side-F005-purple,
+nav.global-nav-upper-F005-black,
+nav.global-nav-side-F005-black,
+nav.global-nav-upper-F005-colorful,
+nav.global-nav-side-F005-colorful {
+  margin: 0 0 20px;
+  padding: 0;
+}
+nav.global-nav-upper-F005-red ul,
+nav.global-nav-side-F005-red ul,
+nav.global-nav-upper-F005-orange ul,
+nav.global-nav-side-F005-orange ul,
+nav.global-nav-upper-F005-yellow ul,
+nav.global-nav-side-F005-yellow ul,
+nav.global-nav-upper-F005-yellowgreen ul,
+nav.global-nav-side-F005-yellowgreen ul,
+nav.global-nav-upper-F005-green ul,
+nav.global-nav-side-F005-green ul,
+nav.global-nav-upper-F005-aqua ul,
+nav.global-nav-side-F005-aqua ul,
+nav.global-nav-upper-F005-blue ul,
+nav.global-nav-side-F005-blue ul,
+nav.global-nav-upper-F005-brown ul,
+nav.global-nav-side-F005-brown ul,
+nav.global-nav-upper-F005-pink ul,
+nav.global-nav-side-F005-pink ul,
+nav.global-nav-upper-F005-purple ul,
+nav.global-nav-side-F005-purple ul,
+nav.global-nav-upper-F005-black ul,
+nav.global-nav-side-F005-black ul,
+nav.global-nav-upper-F005-colorful ul,
+nav.global-nav-side-F005-colorful ul {
+  font-size: 13px;
+  list-style: none;
+}
+nav.global-nav-upper-F005-red ul li,
+nav.global-nav-side-F005-red ul li,
+nav.global-nav-upper-F005-orange ul li,
+nav.global-nav-side-F005-orange ul li,
+nav.global-nav-upper-F005-yellow ul li,
+nav.global-nav-side-F005-yellow ul li,
+nav.global-nav-upper-F005-yellowgreen ul li,
+nav.global-nav-side-F005-yellowgreen ul li,
+nav.global-nav-upper-F005-green ul li,
+nav.global-nav-side-F005-green ul li,
+nav.global-nav-upper-F005-aqua ul li,
+nav.global-nav-side-F005-aqua ul li,
+nav.global-nav-upper-F005-blue ul li,
+nav.global-nav-side-F005-blue ul li,
+nav.global-nav-upper-F005-brown ul li,
+nav.global-nav-side-F005-brown ul li,
+nav.global-nav-upper-F005-pink ul li,
+nav.global-nav-side-F005-pink ul li,
+nav.global-nav-upper-F005-purple ul li,
+nav.global-nav-side-F005-purple ul li,
+nav.global-nav-upper-F005-black ul li,
+nav.global-nav-side-F005-black ul li,
+nav.global-nav-upper-F005-colorful ul li,
+nav.global-nav-side-F005-colorful ul li {
+  padding: 0;
+  text-align: center;
+}
+nav.global-nav-upper-F005-red ul li a,
+nav.global-nav-side-F005-red ul li a,
+nav.global-nav-upper-F005-orange ul li a,
+nav.global-nav-side-F005-orange ul li a,
+nav.global-nav-upper-F005-yellow ul li a,
+nav.global-nav-side-F005-yellow ul li a,
+nav.global-nav-upper-F005-yellowgreen ul li a,
+nav.global-nav-side-F005-yellowgreen ul li a,
+nav.global-nav-upper-F005-green ul li a,
+nav.global-nav-side-F005-green ul li a,
+nav.global-nav-upper-F005-aqua ul li a,
+nav.global-nav-side-F005-aqua ul li a,
+nav.global-nav-upper-F005-blue ul li a,
+nav.global-nav-side-F005-blue ul li a,
+nav.global-nav-upper-F005-brown ul li a,
+nav.global-nav-side-F005-brown ul li a,
+nav.global-nav-upper-F005-pink ul li a,
+nav.global-nav-side-F005-pink ul li a,
+nav.global-nav-upper-F005-purple ul li a,
+nav.global-nav-side-F005-purple ul li a,
+nav.global-nav-upper-F005-black ul li a,
+nav.global-nav-side-F005-black ul li a,
+nav.global-nav-upper-F005-colorful ul li a,
+nav.global-nav-side-F005-colorful ul li a {
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+}
+nav.global-nav-upper-F005-red ul li ul,
+nav.global-nav-side-F005-red ul li ul,
+nav.global-nav-upper-F005-orange ul li ul,
+nav.global-nav-side-F005-orange ul li ul,
+nav.global-nav-upper-F005-yellow ul li ul,
+nav.global-nav-side-F005-yellow ul li ul,
+nav.global-nav-upper-F005-yellowgreen ul li ul,
+nav.global-nav-side-F005-yellowgreen ul li ul,
+nav.global-nav-upper-F005-green ul li ul,
+nav.global-nav-side-F005-green ul li ul,
+nav.global-nav-upper-F005-aqua ul li ul,
+nav.global-nav-side-F005-aqua ul li ul,
+nav.global-nav-upper-F005-blue ul li ul,
+nav.global-nav-side-F005-blue ul li ul,
+nav.global-nav-upper-F005-brown ul li ul,
+nav.global-nav-side-F005-brown ul li ul,
+nav.global-nav-upper-F005-pink ul li ul,
+nav.global-nav-side-F005-pink ul li ul,
+nav.global-nav-upper-F005-purple ul li ul,
+nav.global-nav-side-F005-purple ul li ul,
+nav.global-nav-upper-F005-black ul li ul,
+nav.global-nav-side-F005-black ul li ul,
+nav.global-nav-upper-F005-colorful ul li ul,
+nav.global-nav-side-F005-colorful ul li ul {
+  margin: 0;
+  list-style: none;
+}
+nav.global-nav-upper-F005-red > ul,
+nav.global-nav-side-F005-red > ul,
+nav.global-nav-upper-F005-orange > ul,
+nav.global-nav-side-F005-orange > ul,
+nav.global-nav-upper-F005-yellow > ul,
+nav.global-nav-side-F005-yellow > ul,
+nav.global-nav-upper-F005-yellowgreen > ul,
+nav.global-nav-side-F005-yellowgreen > ul,
+nav.global-nav-upper-F005-green > ul,
+nav.global-nav-side-F005-green > ul,
+nav.global-nav-upper-F005-aqua > ul,
+nav.global-nav-side-F005-aqua > ul,
+nav.global-nav-upper-F005-blue > ul,
+nav.global-nav-side-F005-blue > ul,
+nav.global-nav-upper-F005-brown > ul,
+nav.global-nav-side-F005-brown > ul,
+nav.global-nav-upper-F005-pink > ul,
+nav.global-nav-side-F005-pink > ul,
+nav.global-nav-upper-F005-purple > ul,
+nav.global-nav-side-F005-purple > ul,
+nav.global-nav-upper-F005-black > ul,
+nav.global-nav-side-F005-black > ul,
+nav.global-nav-upper-F005-colorful > ul,
+nav.global-nav-side-F005-colorful > ul {
+  margin: 0;
+}
+nav.global-nav-upper-F005-red > ul > li,
+nav.global-nav-side-F005-red > ul > li,
+nav.global-nav-upper-F005-orange > ul > li,
+nav.global-nav-side-F005-orange > ul > li,
+nav.global-nav-upper-F005-yellow > ul > li,
+nav.global-nav-side-F005-yellow > ul > li,
+nav.global-nav-upper-F005-yellowgreen > ul > li,
+nav.global-nav-side-F005-yellowgreen > ul > li,
+nav.global-nav-upper-F005-green > ul > li,
+nav.global-nav-side-F005-green > ul > li,
+nav.global-nav-upper-F005-aqua > ul > li,
+nav.global-nav-side-F005-aqua > ul > li,
+nav.global-nav-upper-F005-blue > ul > li,
+nav.global-nav-side-F005-blue > ul > li,
+nav.global-nav-upper-F005-brown > ul > li,
+nav.global-nav-side-F005-brown > ul > li,
+nav.global-nav-upper-F005-pink > ul > li,
+nav.global-nav-side-F005-pink > ul > li,
+nav.global-nav-upper-F005-purple > ul > li,
+nav.global-nav-side-F005-purple > ul > li,
+nav.global-nav-upper-F005-black > ul > li,
+nav.global-nav-side-F005-black > ul > li,
+nav.global-nav-upper-F005-colorful > ul > li,
+nav.global-nav-side-F005-colorful > ul > li {
+  position: relative;
+  border-right: 1px solid #e5e5e5;
+  margin-right: -1px;
+}
+nav.global-nav-upper-F005-yellow > ul > li.nav_l {
+  border-left: 1px solid #e5e5e5;
+  margin-left: -1px;
+  margin-right: -10px;
+}
+nav.global-nav-upper-F005-yellow > ul > li.nav_m {
+  margin-right: -10px;
+}
+nav.global-nav-upper-F005-yellow > ul > li.nav_r {
+  margin-right: 20px;
+}
+
+nav.global-nav-upper-F005-red > ul > li > a:hover,
+nav.global-nav-side-F005-red > ul > li > a:hover,
+nav.global-nav-upper-F005-orange > ul > li > a:hover,
+nav.global-nav-side-F005-orange > ul > li > a:hover,
+nav.global-nav-upper-F005-yellow > ul > li > a:hover,
+nav.global-nav-side-F005-yellow > ul > li > a:hover,
+nav.global-nav-upper-F005-yellowgreen > ul > li > a:hover,
+nav.global-nav-side-F005-yellowgreen > ul > li > a:hover,
+nav.global-nav-upper-F005-green > ul > li > a:hover,
+nav.global-nav-side-F005-green > ul > li > a:hover,
+nav.global-nav-upper-F005-aqua > ul > li > a:hover,
+nav.global-nav-side-F005-aqua > ul > li > a:hover,
+nav.global-nav-upper-F005-blue > ul > li > a:hover,
+nav.global-nav-side-F005-blue > ul > li > a:hover,
+nav.global-nav-upper-F005-brown > ul > li > a:hover,
+nav.global-nav-side-F005-brown > ul > li > a:hover,
+nav.global-nav-upper-F005-pink > ul > li > a:hover,
+nav.global-nav-side-F005-pink > ul > li > a:hover,
+nav.global-nav-upper-F005-purple > ul > li > a:hover,
+nav.global-nav-side-F005-purple > ul > li > a:hover,
+nav.global-nav-upper-F005-black > ul > li > a:hover,
+nav.global-nav-side-F005-black > ul > li > a:hover,
+nav.global-nav-upper-F005-colorful > ul > li > a:hover,
+nav.global-nav-side-F005-colorful > ul > li > a:hover {
+  text-decoration: none;
+}
+@media (min-width: 768px) and (max-width: 979px) {
+  nav.global-nav-upper-F005-red ul li ul li a,
+  nav.global-nav-side-F005-red ul li ul li a,
+  nav.global-nav-upper-F005-orange ul li ul li a,
+  nav.global-nav-side-F005-orange ul li ul li a,
+  nav.global-nav-upper-F005-yellow ul li ul li a,
+  nav.global-nav-side-F005-yellow ul li ul li a,
+  nav.global-nav-upper-F005-yellowgreen ul li ul li a,
+  nav.global-nav-side-F005-yellowgreen ul li ul li a,
+  nav.global-nav-upper-F005-green ul li ul li a,
+  nav.global-nav-side-F005-green ul li ul li a,
+  nav.global-nav-upper-F005-aqua ul li ul li a,
+  nav.global-nav-side-F005-aqua ul li ul li a,
+  nav.global-nav-upper-F005-blue ul li ul li a,
+  nav.global-nav-side-F005-blue ul li ul li a,
+  nav.global-nav-upper-F005-brown ul li ul li a,
+  nav.global-nav-side-F005-brown ul li ul li a,
+  nav.global-nav-upper-F005-pink ul li ul li a,
+  nav.global-nav-side-F005-pink ul li ul li a,
+  nav.global-nav-upper-F005-purple ul li ul li a,
+  nav.global-nav-side-F005-purple ul li ul li a,
+  nav.global-nav-upper-F005-black ul li ul li a,
+  nav.global-nav-side-F005-black ul li ul li a,
+  nav.global-nav-upper-F005-colorful ul li ul li a,
+  nav.global-nav-side-F005-colorful ul li ul li a,
+  nav.global-nav-upper-F005-red ul li ul li.active a,
+  nav.global-nav-side-F005-red ul li ul li.active a,
+  nav.global-nav-upper-F005-orange ul li ul li.active a,
+  nav.global-nav-side-F005-orange ul li ul li.active a,
+  nav.global-nav-upper-F005-yellow ul li ul li.active a,
+  nav.global-nav-side-F005-yellow ul li ul li.active a,
+  nav.global-nav-upper-F005-yellowgreen ul li ul li.active a,
+  nav.global-nav-side-F005-yellowgreen ul li ul li.active a,
+  nav.global-nav-upper-F005-green ul li ul li.active a,
+  nav.global-nav-side-F005-green ul li ul li.active a,
+  nav.global-nav-upper-F005-aqua ul li ul li.active a,
+  nav.global-nav-side-F005-aqua ul li ul li.active a,
+  nav.global-nav-upper-F005-blue ul li ul li.active a,
+  nav.global-nav-side-F005-blue ul li ul li.active a,
+  nav.global-nav-upper-F005-brown ul li ul li.active a,
+  nav.global-nav-side-F005-brown ul li ul li.active a,
+  nav.global-nav-upper-F005-pink ul li ul li.active a,
+  nav.global-nav-side-F005-pink ul li ul li.active a,
+  nav.global-nav-upper-F005-purple ul li ul li.active a,
+  nav.global-nav-side-F005-purple ul li ul li.active a,
+  nav.global-nav-upper-F005-black ul li ul li.active a,
+  nav.global-nav-side-F005-black ul li ul li.active a,
+  nav.global-nav-upper-F005-colorful ul li ul li.active a,
+  nav.global-nav-side-F005-colorful ul li ul li.active a {
+    font-size: 11px !important;
+  }
+}
+nav.global-nav-upper-F005-red ul li:hover ul li,
+nav.global-nav-upper-F005-orange ul li:hover ul li,
+nav.global-nav-upper-F005-yellow ul li:hover ul li,
+nav.global-nav-upper-F005-yellowgreen ul li:hover ul li,
+nav.global-nav-upper-F005-green ul li:hover ul li,
+nav.global-nav-upper-F005-aqua ul li:hover ul li,
+nav.global-nav-upper-F005-blue ul li:hover ul li,
+nav.global-nav-upper-F005-brown ul li:hover ul li,
+nav.global-nav-upper-F005-pink ul li:hover ul li,
+nav.global-nav-upper-F005-purple ul li:hover ul li,
+nav.global-nav-upper-F005-black ul li:hover ul li,
+nav.global-nav-upper-F005-colorful ul li:hover ul li {
+  height: 100% !important;
+}
+nav.global-nav-upper-F005-red > ul > li.active > a,
+nav.global-nav-upper-F005-orange > ul > li.active > a,
+nav.global-nav-upper-F005-yellow > ul > li.active > a,
+nav.global-nav-upper-F005-yellowgreen > ul > li.active > a,
+nav.global-nav-upper-F005-green > ul > li.active > a,
+nav.global-nav-upper-F005-aqua > ul > li.active > a,
+nav.global-nav-upper-F005-blue > ul > li.active > a,
+nav.global-nav-upper-F005-brown > ul > li.active > a,
+nav.global-nav-upper-F005-pink > ul > li.active > a,
+nav.global-nav-upper-F005-purple > ul > li.active > a,
+nav.global-nav-upper-F005-black > ul > li.active > a,
+nav.global-nav-upper-F005-colorful > ul > li.active > a {
+  padding-left: 1px;
+}
+nav.global-nav-upper-F005-red > ul > li > a,
+nav.global-nav-upper-F005-orange > ul > li > a,
+nav.global-nav-upper-F005-yellow > ul > li > a,
+nav.global-nav-upper-F005-yellowgreen > ul > li > a,
+nav.global-nav-upper-F005-green > ul > li > a,
+nav.global-nav-upper-F005-aqua > ul > li > a,
+nav.global-nav-upper-F005-blue > ul > li > a,
+nav.global-nav-upper-F005-brown > ul > li > a,
+nav.global-nav-upper-F005-pink > ul > li > a,
+nav.global-nav-upper-F005-purple > ul > li > a,
+nav.global-nav-upper-F005-black > ul > li > a,
+nav.global-nav-upper-F005-colorful > ul > li > a {
+}
+nav.global-nav-upper-F005-red > ul > li > ul > li > a,
+nav.global-nav-upper-F005-orange > ul > li > ul > li > a,
+nav.global-nav-upper-F005-yellow > ul > li > ul > li > a,
+nav.global-nav-upper-F005-yellowgreen > ul > li > ul > li > a,
+nav.global-nav-upper-F005-green > ul > li > ul > li > a,
+nav.global-nav-upper-F005-aqua > ul > li > ul > li > a,
+nav.global-nav-upper-F005-blue > ul > li > ul > li > a,
+nav.global-nav-upper-F005-brown > ul > li > ul > li > a,
+nav.global-nav-upper-F005-pink > ul > li > ul > li > a,
+nav.global-nav-upper-F005-purple > ul > li > ul > li > a,
+nav.global-nav-upper-F005-black > ul > li > ul > li > a,
+nav.global-nav-upper-F005-colorful > ul > li > ul > li > a {
+  padding: 12px 10px 11px 10px;
+  font-size: 13px;
+}
+nav.global-nav-upper-F005-red > ul > li:hover > ul > li > a:after,
+nav.global-nav-upper-F005-orange > ul > li:hover > ul > li > a:after,
+nav.global-nav-upper-F005-yellow > ul > li:hover > ul > li > a:after,
+nav.global-nav-upper-F005-yellowgreen > ul > li:hover > ul > li > a:after,
+nav.global-nav-upper-F005-green > ul > li:hover > ul > li > a:after,
+nav.global-nav-upper-F005-aqua > ul > li:hover > ul > li > a:after,
+nav.global-nav-upper-F005-blue > ul > li:hover > ul > li > a:after,
+nav.global-nav-upper-F005-brown > ul > li:hover > ul > li > a:after,
+nav.global-nav-upper-F005-pink > ul > li:hover > ul > li > a:after,
+nav.global-nav-upper-F005-purple > ul > li:hover > ul > li > a:after,
+nav.global-nav-upper-F005-black > ul > li:hover > ul > li > a:after,
+nav.global-nav-upper-F005-colorful > ul > li:hover > ul > li > a:after {
+  position: absolute;
+  right: 15px;
+}
+nav.global-nav-upper-F005-red > ul > li:hover > ul > li > a:last-child,
+nav.global-nav-upper-F005-orange > ul > li:hover > ul > li > a:last-child,
+nav.global-nav-upper-F005-yellow > ul > li:hover > ul > li > a:last-child,
+nav.global-nav-upper-F005-yellowgreen > ul > li:hover > ul > li > a:last-child,
+nav.global-nav-upper-F005-green > ul > li:hover > ul > li > a:last-child,
+nav.global-nav-upper-F005-aqua > ul > li:hover > ul > li > a:last-child,
+nav.global-nav-upper-F005-blue > ul > li:hover > ul > li > a:last-child,
+nav.global-nav-upper-F005-brown > ul > li:hover > ul > li > a:last-child,
+nav.global-nav-upper-F005-pink > ul > li:hover > ul > li > a:last-child,
+nav.global-nav-upper-F005-purple > ul > li:hover > ul > li > a:last-child,
+nav.global-nav-upper-F005-black > ul > li:hover > ul > li > a:last-child,
+nav.global-nav-upper-F005-colorful > ul > li:hover > ul > li > a:last-child {
+  border-bottom: none;
+}
+nav.global-nav-upper-F005-red > ul > li:hover.active > a:after,
+nav.global-nav-upper-F005-orange > ul > li:hover.active > a:after,
+nav.global-nav-upper-F005-yellow > ul > li:hover.active > a:after,
+nav.global-nav-upper-F005-yellowgreen > ul > li:hover.active > a:after,
+nav.global-nav-upper-F005-green > ul > li:hover.active > a:after,
+nav.global-nav-upper-F005-aqua > ul > li:hover.active > a:after,
+nav.global-nav-upper-F005-blue > ul > li:hover.active > a:after,
+nav.global-nav-upper-F005-brown > ul > li:hover.active > a:after,
+nav.global-nav-upper-F005-pink > ul > li:hover.active > a:after,
+nav.global-nav-upper-F005-purple > ul > li:hover.active > a:after,
+nav.global-nav-upper-F005-black > ul > li:hover.active > a:after,
+nav.global-nav-upper-F005-colorful > ul > li:hover.active > a:after {
+  position: absolute;
+  right: 15px;
+}
+nav.global-nav-side-F005-red ul li,
+nav.global-nav-side-F005-orange ul li,
+nav.global-nav-side-F005-yellow ul li,
+nav.global-nav-side-F005-yellowgreen ul li,
+nav.global-nav-side-F005-green ul li,
+nav.global-nav-side-F005-aqua ul li,
+nav.global-nav-side-F005-blue ul li,
+nav.global-nav-side-F005-brown ul li,
+nav.global-nav-side-F005-pink ul li,
+nav.global-nav-side-F005-purple ul li,
+nav.global-nav-side-F005-black ul li,
+nav.global-nav-side-F005-colorful ul li {
+  text-align: left;
+}
+nav.global-nav-side-F005-red ul li a,
+nav.global-nav-side-F005-orange ul li a,
+nav.global-nav-side-F005-yellow ul li a,
+nav.global-nav-side-F005-yellowgreen ul li a,
+nav.global-nav-side-F005-green ul li a,
+nav.global-nav-side-F005-aqua ul li a,
+nav.global-nav-side-F005-blue ul li a,
+nav.global-nav-side-F005-brown ul li a,
+nav.global-nav-side-F005-pink ul li a,
+nav.global-nav-side-F005-purple ul li a,
+nav.global-nav-side-F005-black ul li a,
+nav.global-nav-side-F005-colorful ul li a {
+  margin: 0 18px 0 18px;
+  padding: 12px 0 11px 0;
+  text-align: left;
+}
+nav.global-nav-side-F005-red ul li ul li a,
+nav.global-nav-side-F005-orange ul li ul li a,
+nav.global-nav-side-F005-yellow ul li ul li a,
+nav.global-nav-side-F005-yellowgreen ul li ul li a,
+nav.global-nav-side-F005-green ul li ul li a,
+nav.global-nav-side-F005-aqua ul li ul li a,
+nav.global-nav-side-F005-blue ul li ul li a,
+nav.global-nav-side-F005-brown ul li ul li a,
+nav.global-nav-side-F005-pink ul li ul li a,
+nav.global-nav-side-F005-purple ul li ul li a,
+nav.global-nav-side-F005-black ul li ul li a,
+nav.global-nav-side-F005-colorful ul li ul li a,
+nav.global-nav-side-F005-red ul li ul li.active a,
+nav.global-nav-side-F005-orange ul li ul li.active a,
+nav.global-nav-side-F005-yellow ul li ul li.active a,
+nav.global-nav-side-F005-yellowgreen ul li ul li.active a,
+nav.global-nav-side-F005-green ul li ul li.active a,
+nav.global-nav-side-F005-aqua ul li ul li.active a,
+nav.global-nav-side-F005-blue ul li ul li.active a,
+nav.global-nav-side-F005-brown ul li ul li.active a,
+nav.global-nav-side-F005-pink ul li ul li.active a,
+nav.global-nav-side-F005-purple ul li ul li.active a,
+nav.global-nav-side-F005-black ul li ul li.active a,
+nav.global-nav-side-F005-colorful ul li ul li.active a {
+  padding-left: 19px;
+  font-size: 13px;
+}
+nav.global-nav-side-F005-red > ul > li > a,
+nav.global-nav-side-F005-orange > ul > li > a,
+nav.global-nav-side-F005-yellow > ul > li > a,
+nav.global-nav-side-F005-yellowgreen > ul > li > a,
+nav.global-nav-side-F005-green > ul > li > a,
+nav.global-nav-side-F005-aqua > ul > li > a,
+nav.global-nav-side-F005-blue > ul > li > a,
+nav.global-nav-side-F005-brown > ul > li > a,
+nav.global-nav-side-F005-pink > ul > li > a,
+nav.global-nav-side-F005-purple > ul > li > a,
+nav.global-nav-side-F005-black > ul > li > a,
+nav.global-nav-side-F005-colorful > ul > li > a {
+  border-bottom: 1px solid #e5e5e5;
+}
+nav.global-nav-side-F005-red > ul > li > a:after,
+nav.global-nav-side-F005-orange > ul > li > a:after,
+nav.global-nav-side-F005-yellow > ul > li > a:after,
+nav.global-nav-side-F005-yellowgreen > ul > li > a:after,
+nav.global-nav-side-F005-green > ul > li > a:after,
+nav.global-nav-side-F005-aqua > ul > li > a:after,
+nav.global-nav-side-F005-blue > ul > li > a:after,
+nav.global-nav-side-F005-brown > ul > li > a:after,
+nav.global-nav-side-F005-pink > ul > li > a:after,
+nav.global-nav-side-F005-purple > ul > li > a:after,
+nav.global-nav-side-F005-black > ul > li > a:after,
+nav.global-nav-side-F005-colorful > ul > li > a:after {
+  position: absolute;
+  right: 15px;
+}
+nav.global-nav-side-F005-red > ul > li:last-child > a,
+nav.global-nav-side-F005-orange > ul > li:last-child > a,
+nav.global-nav-side-F005-yellow > ul > li:last-child > a,
+nav.global-nav-side-F005-yellowgreen > ul > li:last-child > a,
+nav.global-nav-side-F005-green > ul > li:last-child > a,
+nav.global-nav-side-F005-aqua > ul > li:last-child > a,
+nav.global-nav-side-F005-blue > ul > li:last-child > a,
+nav.global-nav-side-F005-brown > ul > li:last-child > a,
+nav.global-nav-side-F005-pink > ul > li:last-child > a,
+nav.global-nav-side-F005-purple > ul > li:last-child > a,
+nav.global-nav-side-F005-black > ul > li:last-child > a,
+nav.global-nav-side-F005-colorful > ul > li:last-child > a {
+  border-bottom: none;
+}
+nav.global-nav-side-F005-red > ul > li.active > a:after,
+nav.global-nav-side-F005-orange > ul > li.active > a:after,
+nav.global-nav-side-F005-yellow > ul > li.active > a:after,
+nav.global-nav-side-F005-yellowgreen > ul > li.active > a:after,
+nav.global-nav-side-F005-green > ul > li.active > a:after,
+nav.global-nav-side-F005-aqua > ul > li.active > a:after,
+nav.global-nav-side-F005-blue > ul > li.active > a:after,
+nav.global-nav-side-F005-brown > ul > li.active > a:after,
+nav.global-nav-side-F005-pink > ul > li.active > a:after,
+nav.global-nav-side-F005-purple > ul > li.active > a:after,
+nav.global-nav-side-F005-black > ul > li.active > a:after,
+nav.global-nav-side-F005-colorful > ul > li.active > a:after {
+  position: absolute;
+  right: 15px;
+}
+nav.global-nav-side-F005-red > ul > li > ul > li:last-child > a,
+nav.global-nav-side-F005-orange > ul > li > ul > li:last-child > a,
+nav.global-nav-side-F005-yellow > ul > li > ul > li:last-child > a,
+nav.global-nav-side-F005-yellowgreen > ul > li > ul > li:last-child > a,
+nav.global-nav-side-F005-green > ul > li > ul > li:last-child > a,
+nav.global-nav-side-F005-aqua > ul > li > ul > li:last-child > a,
+nav.global-nav-side-F005-blue > ul > li > ul > li:last-child > a,
+nav.global-nav-side-F005-brown > ul > li > ul > li:last-child > a,
+nav.global-nav-side-F005-pink > ul > li > ul > li:last-child > a,
+nav.global-nav-side-F005-purple > ul > li > ul > li:last-child > a,
+nav.global-nav-side-F005-black > ul > li > ul > li:last-child > a,
+nav.global-nav-side-F005-colorful > ul > li > ul > li:last-child > a {
+  border-bottom: 1px solid #e5e5e5;
+}
+@media (max-width: 767px) {
+  nav.global-nav-upper-F005-red > ul,
+  nav.global-nav-side-F005-red > ul,
+  nav.global-nav-upper-F005-orange > ul,
+  nav.global-nav-side-F005-orange > ul,
+  nav.global-nav-upper-F005-yellow > ul,
+  nav.global-nav-side-F005-yellow > ul,
+  nav.global-nav-upper-F005-yellowgreen > ul,
+  nav.global-nav-side-F005-yellowgreen > ul,
+  nav.global-nav-upper-F005-green > ul,
+  nav.global-nav-side-F005-green > ul,
+  nav.global-nav-upper-F005-aqua > ul,
+  nav.global-nav-side-F005-aqua > ul,
+  nav.global-nav-upper-F005-blue > ul,
+  nav.global-nav-side-F005-blue > ul,
+  nav.global-nav-upper-F005-brown > ul,
+  nav.global-nav-side-F005-brown > ul,
+  nav.global-nav-upper-F005-pink > ul,
+  nav.global-nav-side-F005-pink > ul,
+  nav.global-nav-upper-F005-purple > ul,
+  nav.global-nav-side-F005-purple > ul,
+  nav.global-nav-upper-F005-black > ul,
+  nav.global-nav-side-F005-black > ul,
+  nav.global-nav-upper-F005-colorful > ul,
+  nav.global-nav-side-F005-colorful > ul {
+    background-color: #fff;
+  }
+}
+nav.global-nav-upper-F005-red > ul > li > a {
+  color: #707070;
+}
+nav.global-nav-upper-F005-red > ul > li > a:hover {
+  color: #e11e1e;
+}
+nav.global-nav-upper-F005-red > ul > li > ul {
+  background-color: #fff;
+}
+nav.global-nav-upper-F005-red > ul > li > ul > li a {
+  color: #707070;
+}
+nav.global-nav-upper-F005-red > ul > li > ul > li a:hover {
+  color: #e11e1e;
+}
+nav.global-nav-upper-F005-red > ul > li > ul > li.active > a {
+  color: #e11e1e;
+}
+nav.global-nav-upper-F005-red > ul > li.active > a {
+  color: #e11e1e;
+}
+nav.global-nav-side-F005-red > ul > li > a {
+  color: #707070;
+}
+nav.global-nav-side-F005-red > ul > li > a:hover {
+  color: #e11e1e;
+}
+nav.global-nav-side-F005-red > ul > li > ul > li a {
+  color: #707070;
+}
+nav.global-nav-side-F005-red > ul > li > ul > li a:hover {
+  color: #e11e1e;
+}
+nav.global-nav-side-F005-red > ul > li > ul > li.active > a {
+  color: #e11e1e;
+}
+nav.global-nav-side-F005-red > ul > li.active > a {
+  color: #e11e1e;
+}
+nav.global-nav-upper-F005-orange > ul > li > a {
+  color: #707070;
+}
+nav.global-nav-upper-F005-orange > ul > li > a:hover {
+  color: #ff7802;
+}
+nav.global-nav-upper-F005-orange > ul > li > ul {
+  background-color: #fff;
+}
+nav.global-nav-upper-F005-orange > ul > li > ul > li a {
+  color: #707070;
+}
+nav.global-nav-upper-F005-orange > ul > li > ul > li a:hover {
+  color: #ff7802;
+}
+nav.global-nav-upper-F005-orange > ul > li > ul > li.active > a {
+  color: #ff7802;
+}
+nav.global-nav-upper-F005-orange > ul > li.active > a {
+  color: #ff7802;
+}
+nav.global-nav-side-F005-orange > ul > li > a {
+  color: #707070;
+}
+nav.global-nav-side-F005-orange > ul > li > a:hover {
+  color: #ff7802;
+}
+nav.global-nav-side-F005-orange > ul > li > ul > li a {
+  color: #707070;
+}
+nav.global-nav-side-F005-orange > ul > li > ul > li a:hover {
+  color: #ff7802;
+}
+nav.global-nav-side-F005-orange > ul > li > ul > li.active > a {
+  color: #ff7802;
+}
+nav.global-nav-side-F005-orange > ul > li.active > a {
+  color: #ff7802;
+}
+nav.global-nav-upper-F005-yellow > ul > li > a {
+  color: #707070;
+}
+nav.global-nav-upper-F005-yellow > ul > li > a:hover {
+  color: #ebb413;
+}
+nav.global-nav-upper-F005-yellow > ul > li > ul {
+  background-color: #fff;
+}
+nav.global-nav-upper-F005-yellow > ul > li > ul > li a {
+  color: #707070;
+}
+nav.global-nav-upper-F005-yellow > ul > li > ul > li a:hover {
+  color: #ebb413;
+}
+nav.global-nav-upper-F005-yellow > ul > li > ul > li.active > a {
+  color: #ebb413;
+}
+nav.global-nav-upper-F005-yellow > ul > li.active > a {
+  color: #ebb413;
+}
+nav.global-nav-side-F005-yellow > ul > li > a {
+  color: #707070;
+}
+nav.global-nav-side-F005-yellow > ul > li > a:hover {
+  color: #ebb413;
+}
+nav.global-nav-side-F005-yellow > ul > li > ul > li a {
+  color: #707070;
+}
+nav.global-nav-side-F005-yellow > ul > li > ul > li a:hover {
+  color: #ebb413;
+}
+nav.global-nav-side-F005-yellow > ul > li > ul > li.active > a {
+  color: #ebb413;
+}
+nav.global-nav-side-F005-yellow > ul > li.active > a {
+  color: #ebb413;
+}
+nav.global-nav-upper-F005-yellowgreen > ul > li > a {
+  color: #707070;
+}
+nav.global-nav-upper-F005-yellowgreen > ul > li > a:hover {
+  color: #a2c637;
+}
+nav.global-nav-upper-F005-yellowgreen > ul > li > ul {
+  background-color: #fff;
+}
+nav.global-nav-upper-F005-yellowgreen > ul > li > ul > li a {
+  color: #707070;
+}
+nav.global-nav-upper-F005-yellowgreen > ul > li > ul > li a:hover {
+  color: #a2c637;
+}
+nav.global-nav-upper-F005-yellowgreen > ul > li > ul > li.active > a {
+  color: #a2c637;
+}
+nav.global-nav-upper-F005-yellowgreen > ul > li.active > a {
+  color: #a2c637;
+}
+nav.global-nav-side-F005-yellowgreen > ul > li > a {
+  color: #707070;
+}
+nav.global-nav-side-F005-yellowgreen > ul > li > a:hover {
+  color: #a2c637;
+}
+nav.global-nav-side-F005-yellowgreen > ul > li > ul > li a {
+  color: #707070;
+}
+nav.global-nav-side-F005-yellowgreen > ul > li > ul > li a:hover {
+  color: #a2c637;
+}
+nav.global-nav-side-F005-yellowgreen > ul > li > ul > li.active > a {
+  color: #a2c637;
+}
+nav.global-nav-side-F005-yellowgreen > ul > li.active > a {
+  color: #a2c637;
+}
+nav.global-nav-upper-F005-green > ul > li > a {
+  color: #707070;
+}
+nav.global-nav-upper-F005-green > ul > li > a:hover {
+  color: #6ebd3d;
+}
+nav.global-nav-upper-F005-green > ul > li > ul {
+  background-color: #fff;
+}
+nav.global-nav-upper-F005-green > ul > li > ul > li a {
+  color: #707070;
+}
+nav.global-nav-upper-F005-green > ul > li > ul > li a:hover {
+  color: #6ebd3d;
+}
+nav.global-nav-upper-F005-green > ul > li > ul > li.active > a {
+  color: #6ebd3d;
+}
+nav.global-nav-upper-F005-green > ul > li.active > a {
+  color: #6ebd3d;
+}
+nav.global-nav-side-F005-green > ul > li > a {
+  color: #707070;
+}
+nav.global-nav-side-F005-green > ul > li > a:hover {
+  color: #6ebd3d;
+}
+nav.global-nav-side-F005-green > ul > li > ul > li a {
+  color: #707070;
+}
+nav.global-nav-side-F005-green > ul > li > ul > li a:hover {
+  color: #6ebd3d;
+}
+nav.global-nav-side-F005-green > ul > li > ul > li.active > a {
+  color: #6ebd3d;
+}
+nav.global-nav-side-F005-green > ul > li.active > a {
+  color: #6ebd3d;
+}
+nav.global-nav-upper-F005-aqua > ul > li > a {
+  color: #707070;
+}
+nav.global-nav-upper-F005-aqua > ul > li > a:hover {
+  color: #43c2c3;
+}
+nav.global-nav-upper-F005-aqua > ul > li > ul {
+  background-color: #fff;
+}
+nav.global-nav-upper-F005-aqua > ul > li > ul > li a {
+  color: #707070;
+}
+nav.global-nav-upper-F005-aqua > ul > li > ul > li a:hover {
+  color: #43c2c3;
+}
+nav.global-nav-upper-F005-aqua > ul > li > ul > li.active > a {
+  color: #43c2c3;
+}
+nav.global-nav-upper-F005-aqua > ul > li.active > a {
+  color: #43c2c3;
+}
+nav.global-nav-side-F005-aqua > ul > li > a {
+  color: #707070;
+}
+nav.global-nav-side-F005-aqua > ul > li > a:hover {
+  color: #43c2c3;
+}
+nav.global-nav-side-F005-aqua > ul > li > ul > li a {
+  color: #707070;
+}
+nav.global-nav-side-F005-aqua > ul > li > ul > li a:hover {
+  color: #43c2c3;
+}
+nav.global-nav-side-F005-aqua > ul > li > ul > li.active > a {
+  color: #43c2c3;
+}
+nav.global-nav-side-F005-aqua > ul > li.active > a {
+  color: #43c2c3;
+}
+nav.global-nav-upper-F005-blue > ul > li > a {
+  color: #707070;
+}
+nav.global-nav-upper-F005-blue > ul > li > a:hover {
+  color: #2d65cd;
+}
+nav.global-nav-upper-F005-blue > ul > li > ul {
+  background-color: #fff;
+}
+nav.global-nav-upper-F005-blue > ul > li > ul > li a {
+  color: #707070;
+}
+nav.global-nav-upper-F005-blue > ul > li > ul > li a:hover {
+  color: #2d65cd;
+}
+nav.global-nav-upper-F005-blue > ul > li > ul > li.active > a {
+  color: #2d65cd;
+}
+nav.global-nav-upper-F005-blue > ul > li.active > a {
+  color: #2d65cd;
+}
+nav.global-nav-side-F005-blue > ul > li > a {
+  color: #707070;
+}
+nav.global-nav-side-F005-blue > ul > li > a:hover {
+  color: #2d65cd;
+}
+nav.global-nav-side-F005-blue > ul > li > ul > li a {
+  color: #707070;
+}
+nav.global-nav-side-F005-blue > ul > li > ul > li a:hover {
+  color: #2d65cd;
+}
+nav.global-nav-side-F005-blue > ul > li > ul > li.active > a {
+  color: #2d65cd;
+}
+nav.global-nav-side-F005-blue > ul > li.active > a {
+  color: #2d65cd;
+}
+nav.global-nav-upper-F005-brown > ul > li > a {
+  color: #707070;
+}
+nav.global-nav-upper-F005-brown > ul > li > a:hover {
+  color: #b36211;
+}
+nav.global-nav-upper-F005-brown > ul > li > ul {
+  background-color: #fff;
+}
+nav.global-nav-upper-F005-brown > ul > li > ul > li a {
+  color: #707070;
+}
+nav.global-nav-upper-F005-brown > ul > li > ul > li a:hover {
+  color: #b36211;
+}
+nav.global-nav-upper-F005-brown > ul > li > ul > li.active > a {
+  color: #b36211;
+}
+nav.global-nav-upper-F005-brown > ul > li.active > a {
+  color: #b36211;
+}
+nav.global-nav-side-F005-brown > ul > li > a {
+  color: #707070;
+}
+nav.global-nav-side-F005-brown > ul > li > a:hover {
+  color: #b36211;
+}
+nav.global-nav-side-F005-brown > ul > li > ul > li a {
+  color: #707070;
+}
+nav.global-nav-side-F005-brown > ul > li > ul > li a:hover {
+  color: #b36211;
+}
+nav.global-nav-side-F005-brown > ul > li > ul > li.active > a {
+  color: #b36211;
+}
+nav.global-nav-side-F005-brown > ul > li.active > a {
+  color: #b36211;
+}
+nav.global-nav-upper-F005-pink > ul > li > a {
+  color: #707070;
+}
+nav.global-nav-upper-F005-pink > ul > li > a:hover {
+  color: #e82c7b;
+}
+nav.global-nav-upper-F005-pink > ul > li > ul {
+  background-color: #fff;
+}
+nav.global-nav-upper-F005-pink > ul > li > ul > li a {
+  color: #707070;
+}
+nav.global-nav-upper-F005-pink > ul > li > ul > li a:hover {
+  color: #e82c7b;
+}
+nav.global-nav-upper-F005-pink > ul > li > ul > li.active > a {
+  color: #e82c7b;
+}
+nav.global-nav-upper-F005-pink > ul > li.active > a {
+  color: #e82c7b;
+}
+nav.global-nav-side-F005-pink > ul > li > a {
+  color: #707070;
+}
+nav.global-nav-side-F005-pink > ul > li > a:hover {
+  color: #e82c7b;
+}
+nav.global-nav-side-F005-pink > ul > li > ul > li a {
+  color: #707070;
+}
+nav.global-nav-side-F005-pink > ul > li > ul > li a:hover {
+  color: #e82c7b;
+}
+nav.global-nav-side-F005-pink > ul > li > ul > li.active > a {
+  color: #e82c7b;
+}
+nav.global-nav-side-F005-pink > ul > li.active > a {
+  color: #e82c7b;
+}
+nav.global-nav-upper-F005-purple > ul > li > a {
+  color: #707070;
+}
+nav.global-nav-upper-F005-purple > ul > li > a:hover {
+  color: #ac3fbd;
+}
+nav.global-nav-upper-F005-purple > ul > li > ul {
+  background-color: #fff;
+}
+nav.global-nav-upper-F005-purple > ul > li > ul > li a {
+  color: #707070;
+}
+nav.global-nav-upper-F005-purple > ul > li > ul > li a:hover {
+  color: #ac3fbd;
+}
+nav.global-nav-upper-F005-purple > ul > li > ul > li.active > a {
+  color: #ac3fbd;
+}
+nav.global-nav-upper-F005-purple > ul > li.active > a {
+  color: #ac3fbd;
+}
+nav.global-nav-side-F005-purple > ul > li > a {
+  color: #707070;
+}
+nav.global-nav-side-F005-purple > ul > li > a:hover {
+  color: #ac3fbd;
+}
+nav.global-nav-side-F005-purple > ul > li > ul > li a {
+  color: #707070;
+}
+nav.global-nav-side-F005-purple > ul > li > ul > li a:hover {
+  color: #ac3fbd;
+}
+nav.global-nav-side-F005-purple > ul > li > ul > li.active > a {
+  color: #ac3fbd;
+}
+nav.global-nav-side-F005-purple > ul > li.active > a {
+  color: #ac3fbd;
+}
+nav.global-nav-upper-F005-black > ul > li > a {
+  color: #707070;
+}
+nav.global-nav-upper-F005-black > ul > li > a:hover {
+  color: #0f0f0f;
+}
+nav.global-nav-upper-F005-black > ul > li > ul {
+  background-color: #fff;
+}
+nav.global-nav-upper-F005-black > ul > li > ul > li a {
+  color: #707070;
+}
+nav.global-nav-upper-F005-black > ul > li > ul > li a:hover {
+  color: #0f0f0f;
+}
+nav.global-nav-upper-F005-black > ul > li > ul > li.active > a {
+  color: #0f0f0f;
+}
+nav.global-nav-upper-F005-black > ul > li.active > a {
+  color: #0f0f0f;
+}
+nav.global-nav-side-F005-black > ul > li > a {
+  color: #707070;
+}
+nav.global-nav-side-F005-black > ul > li > a:hover {
+  color: #0f0f0f;
+}
+nav.global-nav-side-F005-black > ul > li > ul > li a {
+  color: #707070;
+}
+nav.global-nav-side-F005-black > ul > li > ul > li a:hover {
+  color: #0f0f0f;
+}
+nav.global-nav-side-F005-black > ul > li > ul > li.active > a {
+  color: #0f0f0f;
+}
+nav.global-nav-side-F005-black > ul > li.active > a {
+  color: #0f0f0f;
+}
+nav.global-nav-upper-F005-colorful > ul > li:nth-child(5n+1):hover > a {
+  color: #ff7802;
+}
+nav.global-nav-upper-F005-colorful > ul > li:nth-child(5n+1):hover > ul > li > a:hover {
+  color: #ff7802;
+}
+nav.global-nav-upper-F005-colorful > ul > li:nth-child(5n+2):hover > a {
+  color: #ebb413;
+}
+nav.global-nav-upper-F005-colorful > ul > li:nth-child(5n+2):hover > ul > li > a:hover {
+  color: #ebb413;
+}
+nav.global-nav-upper-F005-colorful > ul > li:nth-child(5n+3):hover > a {
+  color: #a2c637;
+}
+nav.global-nav-upper-F005-colorful > ul > li:nth-child(5n+3):hover > ul > li > a:hover {
+  color: #a2c637;
+}
+nav.global-nav-upper-F005-colorful > ul > li:nth-child(5n+4):hover > a {
+  color: #6ebd3d;
+}
+nav.global-nav-upper-F005-colorful > ul > li:nth-child(5n+4):hover > ul > li > a:hover {
+  color: #6ebd3d;
+}
+nav.global-nav-upper-F005-colorful > ul > li:nth-child(5n):hover > a {
+  color: #43c2c3;
+}
+nav.global-nav-upper-F005-colorful > ul > li:nth-child(5n):hover > ul > li > a:hover {
+  color: #43c2c3;
+}
+nav.global-nav-upper-F005-colorful > ul > li > a {
+  color: #707070;
+}
+nav.global-nav-upper-F005-colorful > ul > li > ul {
+  background-color: #fff;
+}
+nav.global-nav-upper-F005-colorful > ul > li > ul > li a {
+  color: #707070;
+}
+nav.global-nav-upper-F005-colorful > ul > li > ul > li.active > a {
+  color: #e11e1e;
+}
+nav.global-nav-upper-F005-colorful > ul > li.active > a {
+  color: #e11e1e;
+}
+nav.global-nav-side-F005-colorful > ul > li:nth-child(5n+1):hover > a {
+  color: #ff7802;
+}
+nav.global-nav-side-F005-colorful > ul > li:nth-child(5n+1):hover > ul > li > a:hover {
+  color: #ff7802;
+}
+nav.global-nav-side-F005-colorful > ul > li:nth-child(5n+2):hover > a {
+  color: #ebb413;
+}
+nav.global-nav-side-F005-colorful > ul > li:nth-child(5n+2):hover > ul > li > a:hover {
+  color: #ebb413;
+}
+nav.global-nav-side-F005-colorful > ul > li:nth-child(5n+3):hover > a {
+  color: #a2c637;
+}
+nav.global-nav-side-F005-colorful > ul > li:nth-child(5n+3):hover > ul > li > a:hover {
+  color: #a2c637;
+}
+nav.global-nav-side-F005-colorful > ul > li:nth-child(5n+4):hover > a {
+  color: #6ebd3d;
+}
+nav.global-nav-side-F005-colorful > ul > li:nth-child(5n+4):hover > ul > li > a:hover {
+  color: #6ebd3d;
+}
+nav.global-nav-side-F005-colorful > ul > li:nth-child(5n):hover > a {
+  color: #43c2c3;
+}
+nav.global-nav-side-F005-colorful > ul > li:nth-child(5n):hover > ul > li > a:hover {
+  color: #43c2c3;
+}
+nav.global-nav-side-F005-colorful > ul > li > a {
+  color: #707070;
+}
+nav.global-nav-side-F005-colorful > ul > li > ul > li a {
+  color: #707070;
+}
+nav.global-nav-side-F005-colorful > ul > li > ul > li.active > a {
+  color: #e11e1e;
+}
+nav.global-nav-side-F005-colorful > ul > li.active > a {
+  color: #e11e1e;
+}
+nav.global-nav-upper-F004-red.global-nav-upper-item7 > ul > li:nth-of-type(7n) > a,
+nav.global-nav-upper-F004-orange.global-nav-upper-item7 > ul > li:nth-of-type(7n) > a,
+nav.global-nav-upper-F004-yellow.global-nav-upper-item7 > ul > li:nth-of-type(7n) > a,
+nav.global-nav-upper-F004-yellowgreen.global-nav-upper-item7 > ul > li:nth-of-type(7n) > a,
+nav.global-nav-upper-F004-green.global-nav-upper-item7 > ul > li:nth-of-type(7n) > a,
+nav.global-nav-upper-F004-aqua.global-nav-upper-item7 > ul > li:nth-of-type(7n) > a,
+nav.global-nav-upper-F004-blue.global-nav-upper-item7 > ul > li:nth-of-type(7n) > a,
+nav.global-nav-upper-F004-brown.global-nav-upper-item7 > ul > li:nth-of-type(7n) > a,
+nav.global-nav-upper-F004-pink.global-nav-upper-item7 > ul > li:nth-of-type(7n) > a,
+nav.global-nav-upper-F004-purple.global-nav-upper-item7 > ul > li:nth-of-type(7n) > a,
+nav.global-nav-upper-F004-black.global-nav-upper-item7 > ul > li:nth-of-type(7n) > a,
+nav.global-nav-upper-F004-colorful.global-nav-upper-item7 > ul > li:nth-of-type(7n) > a {
+  border: none;
+}
+nav.global-nav-upper-F004-red.global-nav-upper-item6 > ul > li:nth-of-type(6n) > a,
+nav.global-nav-upper-F004-orange.global-nav-upper-item6 > ul > li:nth-of-type(6n) > a,
+nav.global-nav-upper-F004-yellow.global-nav-upper-item6 > ul > li:nth-of-type(6n) > a,
+nav.global-nav-upper-F004-yellowgreen.global-nav-upper-item6 > ul > li:nth-of-type(6n) > a,
+nav.global-nav-upper-F004-green.global-nav-upper-item6 > ul > li:nth-of-type(6n) > a,
+nav.global-nav-upper-F004-aqua.global-nav-upper-item6 > ul > li:nth-of-type(6n) > a,
+nav.global-nav-upper-F004-blue.global-nav-upper-item6 > ul > li:nth-of-type(6n) > a,
+nav.global-nav-upper-F004-brown.global-nav-upper-item6 > ul > li:nth-of-type(6n) > a,
+nav.global-nav-upper-F004-pink.global-nav-upper-item6 > ul > li:nth-of-type(6n) > a,
+nav.global-nav-upper-F004-purple.global-nav-upper-item6 > ul > li:nth-of-type(6n) > a,
+nav.global-nav-upper-F004-black.global-nav-upper-item6 > ul > li:nth-of-type(6n) > a,
+nav.global-nav-upper-F004-colorful.global-nav-upper-item6 > ul > li:nth-of-type(6n) > a {
+  border: none;
+}
+nav.global-nav-upper-F004-red.global-nav-upper-item5 > ul > li:nth-of-type(5n) > a,
+nav.global-nav-upper-F004-orange.global-nav-upper-item5 > ul > li:nth-of-type(5n) > a,
+nav.global-nav-upper-F004-yellow.global-nav-upper-item5 > ul > li:nth-of-type(5n) > a,
+nav.global-nav-upper-F004-yellowgreen.global-nav-upper-item5 > ul > li:nth-of-type(5n) > a,
+nav.global-nav-upper-F004-green.global-nav-upper-item5 > ul > li:nth-of-type(5n) > a,
+nav.global-nav-upper-F004-aqua.global-nav-upper-item5 > ul > li:nth-of-type(5n) > a,
+nav.global-nav-upper-F004-blue.global-nav-upper-item5 > ul > li:nth-of-type(5n) > a,
+nav.global-nav-upper-F004-brown.global-nav-upper-item5 > ul > li:nth-of-type(5n) > a,
+nav.global-nav-upper-F004-pink.global-nav-upper-item5 > ul > li:nth-of-type(5n) > a,
+nav.global-nav-upper-F004-purple.global-nav-upper-item5 > ul > li:nth-of-type(5n) > a,
+nav.global-nav-upper-F004-black.global-nav-upper-item5 > ul > li:nth-of-type(5n) > a,
+nav.global-nav-upper-F004-colorful.global-nav-upper-item5 > ul > li:nth-of-type(5n) > a {
+  border: none;
+}
+nav.global-nav-upper-F004-red.global-nav-upper-item4 > ul > li:nth-of-type(4n) > a,
+nav.global-nav-upper-F004-orange.global-nav-upper-item4 > ul > li:nth-of-type(4n) > a,
+nav.global-nav-upper-F004-yellow.global-nav-upper-item4 > ul > li:nth-of-type(4n) > a,
+nav.global-nav-upper-F004-yellowgreen.global-nav-upper-item4 > ul > li:nth-of-type(4n) > a,
+nav.global-nav-upper-F004-green.global-nav-upper-item4 > ul > li:nth-of-type(4n) > a,
+nav.global-nav-upper-F004-aqua.global-nav-upper-item4 > ul > li:nth-of-type(4n) > a,
+nav.global-nav-upper-F004-blue.global-nav-upper-item4 > ul > li:nth-of-type(4n) > a,
+nav.global-nav-upper-F004-brown.global-nav-upper-item4 > ul > li:nth-of-type(4n) > a,
+nav.global-nav-upper-F004-pink.global-nav-upper-item4 > ul > li:nth-of-type(4n) > a,
+nav.global-nav-upper-F004-purple.global-nav-upper-item4 > ul > li:nth-of-type(4n) > a,
+nav.global-nav-upper-F004-black.global-nav-upper-item4 > ul > li:nth-of-type(4n) > a,
+nav.global-nav-upper-F004-colorful.global-nav-upper-item4 > ul > li:nth-of-type(4n) > a {
+  border: none;
+}

@@ -1,0 +1,40 @@
+<?php
+/*
+Template Name:小児の成長発育・矯正治療について／ChildOrtho
+*/
+?>
+<?php include_once('header.php'); ?>
+          <!-- パンくずリストここから -->
+          <div class="row breadcrumb-wrap">            <div class="span12"></div>
+</div>
+          <!-- パンくずリストここまで -->
+          <div class="row outside-main-visual-wrap">            <div class="span12"></div>
+</div>
+          <div class="row">
+           <?php include_once('sidebar.php'); ?>
+            <div class="span9" data-role="contents"><div class='row' data-module-type='container'><div class=' span9' data-module-type='cell'><div data-module-type='heading'><h2 class="design-tmpl h2-cute-yellow" data-default-design="cute" data-default-color="yellow" data-design-class="h2-cute-yellow">小児の成長発育・矯正治療について</h2></div></div></div><div class='row' data-module-type='container'><div class=' span9' data-module-type='cell'><div data-module-type='paragraph-editable'>
+  <div data-layout="1">
+    <div>
+      <p><a href="<?php echo home_url('/'); ?>" class="" data-page-id="52860a9a6253dc972f00038c" data-heading-id="">
+      立川小児矯正なら近藤歯科クリニック</a>＞<a href="<?php echo home_url('/'); ?>./Children-Dentist-Policy/" class="" data-page-id="52bd3393f66951512c0001a6" data-heading-id="">小児歯科</a>＞小児の成長発育・矯正治療について
+      </p>
+    </div>
+  </div>
+</div></div></div><div class='row' data-module-type='container'><div class=' span9' data-module-type='cell'><div data-module-type='pwithimg-editable'>
+  <div data-layout="r1">
+    <div>
+      <img src="<?php echo get_template_directory_uri(); ?>/library/528607df6253dc972f00036b/52ccba94f1fd65733000006c.jpg" unselectable="on" oncontextmenu="return false;" ondragstart="return false;" onselectstart="return false;" class="" />
+      <div>
+        <p>小児期で最も大切なことは、<font color="#c0504d"><b>健全な身体と心の成長発育</b></font>です。</p><p>そして、矯正治療において、最も大切なことは、<u><b><font color="#f79646">“歯を抜かないこと”</font></b></u>です。</p><p>“歯並び”には原因があります。</p><p>遺伝的なものもありますし、後天的な環境によるものもあります。</p><p><font color="#f79646"><b>歯並びの原因を考えずに、ただ歯の並ぶスペースだけを考えて歯を抜いてしまうのは絶対にすすめられません。</b></font></p><p>そして、歯並びの原因とともに、舌の位置、あごの骨の形、筋肉の状態を、よく考えて矯正治療をしないと、必ず“後戻り”といって、歯を動かしても、元の位置に近い場所まで戻ってしまいます。</p><p>さらに、成長期のお子さんの歯を抜くことにより、あごの成長がさらに悪くなり他の歯の持ちも悪くなり、将来的には、歯周病にもなりやすくなります。</p><p>“ヒト”が生きてくうえで、最も大切なことは、<b><font color="#f79646">“呼吸＝息をすること”</font></b>ですが、“歯並び”はさらに、頭の骨の形態、あごの位置、筋肉の状態などの&nbsp;<font color="#f79646"><b>“結果”</b></font>であることがわかってきました。</p><p>したがって、成長期のお子さんの歯を抜いてしまうのは、呼吸に悪影響を与えるだけでなく、咀嚼、嚥下など、生きていくうえで必要な条件に悪い影響をあたえかねません。</p><p>さらに、歯並びが良くないお子さんは、鼻づまり、アレルギー性鼻炎、喘息、いびき、睡眠時無呼吸などの耳鼻科系疾患もかかえている場合が多いです。</p><p><b><font color="#76923c">これにはあご、顔の理想的な成長発育をさせる、バイオブロック療法が効果的です。顎顔面の成長発育により、鼻づまりなどの耳鼻科系疾患も改善され、歯並びも結果的に良くなります。</font></b></p><p>近藤歯科クリニックでも、今年から、このバイオブロック療法をはじめました。<br /><a href="http://www.d-jacg.org/" class="" target="_blank" ondragstart="return false;">≫バイオブロック療法についてくわしくはこちら</a></p><p>さらに、“歯並びを治す”ことをまず第一にするならば、床矯正治療も、年齢、状態によっては、従来の矯正治療と比較し、費用のかからない、取り組みやすい矯正治療法です。<br /></p><p>このように、近藤歯科クリニックは立川周辺地域のお子さんの心と身体の健やかな成長を応援し、皆さまのご健康を願い、日々歯科診療に取り組んでおります。</p>
+      </div>
+    </div>
+  </div>
+</div></div></div><div class='row' data-module-type='container'><div class=' span9' data-module-type='cell'><div data-module-type='heading'><h3 id="ttl-navi15" class="design-tmpl h3-cute-yellow" data-default-design="cute" data-default-color="yellow" data-design-class="h3-cute-yellow">小児歯科・関連リンク一覧</h3></div><div data-module-type='paragraph-editable'>
+  <div data-layout="1">
+    <div>
+      <p><span style="background-color: rgb(247, 247, 247);">≫<font color="#336699"><a href="<?php echo home_url('/'); ?>./Children-Dentist-Policy/" class="" data-page-id="52bd3393f66951512c0001a6" data-heading-id="">小児歯科 TOP</a></font></span></p><p><span style="background-color: rgb(247, 247, 247);">≫</span><a href="<?php echo home_url('/'); ?>./toParents/" class="" data-page-id="59e406eae6a6e2d02e5a3c4d" data-heading-id="">小さなお子さんの保護者の方へ</a></p><p><span style="background-color: rgb(247, 247, 247);">≫</span><a href="<?php echo home_url('/'); ?>./Children-Cavities-Treat/" class="" data-page-id="531f2e81bf1b646f7200010c" data-heading-id="">子どものむし歯治療について</a></p><p><span style="background-color: rgb(247, 247, 247);">≫</span><a href="<?php echo home_url('/'); ?>./toPreventDecay/" class="" data-page-id="59e40beb8c9f48d734d53929" data-heading-id="">子どもの歯をむし歯にしないために</a><br /></p><p><span style="background-color: rgb(247, 247, 247);">≫</span><a href="<?php echo home_url('/'); ?>./1stTimeCure/" class="" data-page-id="59e410b2622623e53a70d102" data-heading-id="">歯科治療を初めて受けられるお子さんは</a></p><p><span style="background-color: rgb(247, 247, 247);">≫</span><a href="<?php echo home_url('/'); ?>./Children-Prevention/" class="" data-page-id="59e418b601d07d63304d98a6" data-heading-id="">子どものむし歯予防について</a></p><p><span style="background-color: rgb(247, 247, 247);">≫</span><a href="<?php echo home_url('/'); ?>./Dentist-for-Children/" class="" data-page-id="59192abc9b87d89f6cdf225a" data-heading-id="">子どものための歯科</a></p><p><span style="background-color: rgb(247, 247, 247);">≫</span><a href="<?php echo home_url('/'); ?>./Children-TeethBrushing/" class="" data-page-id="52ce1f7ba944dfe36600074c" data-heading-id="">小児の歯磨き</a></p><p><span style="background-color: rgb(247, 247, 247);">≫</span><a href="<?php echo home_url('/'); ?>./FoodEducation/" class="" data-page-id="52bd35bef66951512c0001c8" data-heading-id="">子どもの食生活・食育</a></p><p><span style="background-color: rgb(247, 247, 247);">≫</span><a href="<?php echo home_url('/'); ?>./Child-Dental-QandA/" class="" data-page-id="52bd3592f66951512c0001be" data-heading-id="">小児歯科Q&amp;A</a></p><p><span style="background-color: rgb(247, 247, 247);">≫</span><a href="<?php echo home_url('/'); ?>./Children-OtherDiseases/" class="" data-page-id="59e41d9ad2e3a45742717c6c" data-heading-id="">子どもの口の病気・けがについて</a></p><p><span style="background-color: rgb(247, 247, 247);">≫</span><a href="<?php echo home_url('/'); ?>./StopSweets/" class="" data-page-id="59e4248b4bd28f7649e7f661" data-heading-id="">お子さんが甘いものを止めると・・・</a></p><p><span style="background-color: rgb(247, 247, 247);">≫</span><a href="<?php echo home_url('/'); ?>./Child-Set-of-Teeth/" class="" data-page-id="52bd35b5f66951512c0001c6" data-heading-id="">子どもの歯並び</a></p><p><span style="background-color: rgb(247, 247, 247);">≫</span><a href="<?php echo home_url('/'); ?>./BabyTeeth/" class="" data-page-id="59e44b331cfa62355d60b98b" data-heading-id="">子どもの歯（乳歯）について</a></p><p><span style="background-color: rgb(247, 247, 247);">≫</span><a href="<?php echo home_url('/'); ?>./toChildren-1stVisitingDental/" class="" data-page-id="52bd3589f66951512c0001bb" data-heading-id="">初めて歯科に来られるお子さんへ</a><br /></p><p><span style="background-color: rgb(247, 247, 247);">≫</span><a href="<?php echo home_url('/'); ?>./Protect6YearMolarTeeth/" class="" data-page-id="59e40ece8c9f48d734d53c64" data-heading-id="">６歳臼歯を守ろう</a><br /></p><p><span style="background-color: rgb(247, 247, 247);">≫</span><a href="<?php echo home_url('/'); ?>./forHealthyTeeth/" class="" data-page-id="52fae08889ca59c42c0000d0" data-heading-id="">むし歯予防と健全な歯並びのために</a><br /></p><p><span style="background-color: rgb(247, 247, 247);">≫</span><a href="<?php echo home_url('/'); ?>./pleasure-of-child-dental/" class="" data-page-id="5919401572f8b9100c8f90d0" data-heading-id="">小児歯科のよろこび</a><br /></p><p><span style="background-color: rgb(247, 247, 247);">≫</span><a href="<?php echo home_url('/'); ?>./pediatricdermatologytreatment/" class="" data-page-id="5ac1c681d16d9381450e83ef" data-heading-id="">小児・幼児のむし歯治療</a><br /></p><p><span style="background-color: rgb(247, 247, 247);">≫</span><a href="<?php echo home_url('/'); ?>./pediatrictoothpaste/" class="" data-page-id="5ac1c51e1ac37a21246c38b9" data-heading-id="">小児の年齢別歯みがき法</a><br /></p>
+    </div>
+  </div>
+</div></div></div></div>
+</div>
+          <?php include_once('footer.php'); ?>

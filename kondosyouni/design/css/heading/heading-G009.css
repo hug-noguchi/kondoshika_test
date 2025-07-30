@@ -1,0 +1,337 @@
+@charset "UTF-8";
+h2.h2-G009-red {
+  margin-top: 0;
+  padding: 25px 15px 25px 20px;
+  color: #ca0000;
+  font-size: 20px;
+  font-weight: normal;
+  background: #fff url("../../images/heading/G009/red/h2-image.png") no-repeat right bottom;
+  border: 1px solid #e7e7e7;
+}
+h3.h3-G009-red {
+  margin-top: 0;
+  padding: 10px;
+  color: #ca0000;
+  font-size: 20px;
+  font-weight: normal;
+  border: 3px solid #ccc;
+  border-style: double;
+}
+h4.h4-G009-red {
+  display: inline;
+  margin-top: 0;
+  padding: 9px 3px 0 3px;
+  color: #252525;
+  font-size: 16px;
+  line-height: 1.8em;
+  font-weight: normal;
+  background: url("../../images/heading/G009/red/marker-line.png") repeat-x left bottom;
+}
+h2.h2-G009-orange {
+  margin-top: 0;
+  padding: 25px 15px 25px 20px;
+  color: #cc5f00;
+  font-size: 20px;
+  font-weight: normal;
+  background: #fff url("../../images/heading/G009/orange/h2-image.png") no-repeat right bottom;
+  border: 1px solid #e7e7e7;
+}
+h3.h3-G009-orange {
+  margin-top: 0;
+  padding: 10px;
+  color: #cc5f00;
+  font-size: 20px;
+  font-weight: normal;
+  border: 3px solid #ccc;
+  border-style: double;
+}
+h4.h4-G009-orange {
+  display: inline;
+  margin-top: 0;
+  padding: 9px 3px 0 3px;
+  color: #252525;
+  font-size: 16px;
+  line-height: 1.8em;
+  font-weight: normal;
+  background: url("../../images/heading/G009/orange/marker-line.png") repeat-x left bottom;
+}
+h2.h2-G009-yellow {
+  margin-top: 0;
+  padding: 25px 15px 25px 20px;
+  color: #ca9700;
+  font-size: 20px;
+  font-weight: normal;
+  background: #fff url("../../images/heading/G009/yellow/h2-image.png") no-repeat right bottom;
+  border: 1px solid #e7e7e7;
+}
+h3.h3-G009-yellow {
+  margin-top: 0;
+  padding: 10px;
+  color: #ca9700;
+  font-size: 20px;
+  font-weight: normal;
+  border: 3px solid #ccc;
+  border-style: double;
+}
+h4.h4-G009-yellow {
+  display: inline;
+  margin-top: 0;
+  padding: 9px 3px 0 3px;
+  color: #252525;
+  font-size: 16px;
+  line-height: 1.8em;
+  font-weight: normal;
+  background: url("../../images/heading/G009/yellow/marker-line.png") repeat-x left bottom;
+}
+h2.h2-G009-yellowgreen {
+  margin-top: 0;
+  padding: 25px 15px 25px 20px;
+  color: #88ae1a;
+  font-size: 20px;
+  font-weight: normal;
+  background: #fff url("../../images/heading/G009/yellowgreen/h2-image.png") no-repeat right bottom;
+  border: 1px solid #e7e7e7;
+}
+h3.h3-G009-yellowgreen {
+  margin-top: 0;
+  padding: 10px;
+  color: #88ae1a;
+  font-size: 20px;
+  font-weight: normal;
+  border: 3px solid #ccc;
+  border-style: double;
+}
+h4.h4-G009-yellowgreen {
+  display: inline;
+  margin-top: 0;
+  padding: 9px 3px 0 3px;
+  color: #252525;
+  font-size: 16px;
+  line-height: 1.8em;
+  font-weight: normal;
+  background: url("../../images/heading/G009/yellowgreen/marker-line.png") repeat-x left bottom;
+}
+h2.h2-G009-green {
+  margin-top: 0;
+  padding: 25px 15px 25px 20px;
+  color: #085e10;
+  font-size: 20px;
+  font-weight: normal;
+  background: #fff url("../../images/heading/G009/green/h2-image.png") no-repeat right bottom;
+  border: 1px solid #e7e7e7;
+}
+h3.h3-G009-green {
+  margin-top: 0;
+  padding: 10px;
+  color: #085e10;
+  font-size: 20px;
+  font-weight: normal;
+  border: 3px solid #ccc;
+  border-style: double;
+}
+h4.h4-G009-green {
+  display: inline;
+  margin-top: 0;
+  padding: 9px 3px 0 3px;
+  color: #252525;
+  font-size: 16px;
+  line-height: 1.8em;
+  font-weight: normal;
+  background: url("../../images/heading/G009/green/marker-line.png") repeat-x left bottom;
+}
+h2.h2-G009-aqua {
+  margin-top: 0;
+  padding: 25px 15px 25px 20px;
+  color: #27aaab;
+  font-size: 20px;
+  font-weight: normal;
+  background: #fff url("../../images/heading/G009/aqua/h2-image.png") no-repeat right bottom;
+  border: 1px solid #e7e7e7;
+}
+h3.h3-G009-aqua {
+  margin-top: 0;
+  padding: 10px;
+  color: #27aaab;
+  font-size: 20px;
+  font-weight: normal;
+  border: 3px solid #ccc;
+  border-style: double;
+}
+h4.h4-G009-aqua {
+  display: inline;
+  margin-top: 0;
+  padding: 9px 3px 0 3px;
+  color: #252525;
+  font-size: 16px;
+  line-height: 1.8em;
+  font-weight: normal;
+  background: url("../../images/heading/G009/aqua/marker-line.png") repeat-x left bottom;
+}
+h2.h2-G009-blue {
+  margin-top: 0;
+  padding: 25px 15px 25px 20px;
+  color: #2d5b9e;
+  font-size: 20px;
+  font-weight: normal;
+  background: #fff url("../../images/heading/G009/blue/h2-image.png") no-repeat right bottom;
+  border: 1px solid #e7e7e7;
+}
+h3.h3-G009-blue {
+  margin-top: 0;
+  padding: 10px;
+  color: #2d5b9e;
+  font-size: 20px;
+  font-weight: normal;
+  border: 3px solid #ccc;
+  border-style: double;
+}
+h4.h4-G009-blue {
+  display: inline;
+  margin-top: 0;
+  padding: 9px 3px 0 3px;
+  color: #252525;
+  font-size: 16px;
+  line-height: 1.8em;
+  font-weight: normal;
+  background: url("../../images/heading/G009/blue/marker-line.png") repeat-x left bottom;
+}
+h2.h2-G009-brown {
+  margin-top: 0;
+  padding: 25px 15px 25px 20px;
+  color: #765530;
+  font-size: 20px;
+  font-weight: normal;
+  background: #fff url("../../images/heading/G009/brown/h2-image.png") no-repeat right bottom;
+  border: 1px solid #e7e7e7;
+}
+h3.h3-G009-brown {
+  margin-top: 0;
+  padding: 10px;
+  color: #765530;
+  font-size: 20px;
+  font-weight: normal;
+  border: 3px solid #ccc;
+  border-style: double;
+}
+h4.h4-G009-brown {
+  display: inline;
+  margin-top: 0;
+  padding: 9px 3px 0 3px;
+  color: #252525;
+  font-size: 16px;
+  line-height: 1.8em;
+  font-weight: normal;
+  background: url("../../images/heading/G009/brown/marker-line.png") repeat-x left bottom;
+}
+h2.h2-G009-pink {
+  margin-top: 0;
+  padding: 25px 15px 25px 20px;
+  color: #d40061;
+  font-size: 20px;
+  font-weight: normal;
+  background: #fff url("../../images/heading/G009/pink/h2-image.png") no-repeat right bottom;
+  border: 1px solid #e7e7e7;
+}
+h3.h3-G009-pink {
+  margin-top: 0;
+  padding: 10px;
+  color: #d40061;
+  font-size: 20px;
+  font-weight: normal;
+  border: 3px solid #ccc;
+  border-style: double;
+}
+h4.h4-G009-pink {
+  display: inline;
+  margin-top: 0;
+  padding: 9px 3px 0 3px;
+  color: #252525;
+  font-size: 16px;
+  line-height: 1.8em;
+  font-weight: normal;
+  background: url("../../images/heading/G009/pink/marker-line.png") repeat-x left bottom;
+}
+h2.h2-G009-purple {
+  margin-top: 0;
+  padding: 25px 15px 25px 20px;
+  color: #9323a5;
+  font-size: 20px;
+  font-weight: normal;
+  background: #fff url("../../images/heading/G009/purple/h2-image.png") no-repeat right bottom;
+  border: 1px solid #e7e7e7;
+}
+h3.h3-G009-purple {
+  margin-top: 0;
+  padding: 10px;
+  color: #9323a5;
+  font-size: 20px;
+  font-weight: normal;
+  border: 3px solid #ccc;
+  border-style: double;
+}
+h4.h4-G009-purple {
+  display: inline;
+  margin-top: 0;
+  padding: 9px 3px 0 3px;
+  color: #252525;
+  font-size: 16px;
+  line-height: 1.8em;
+  font-weight: normal;
+  background: url("../../images/heading/G009/purple/marker-line.png") repeat-x left bottom;
+}
+h2.h2-G009-black {
+  margin-top: 0;
+  padding: 25px 15px 25px 20px;
+  color: #333;
+  font-size: 20px;
+  font-weight: normal;
+  background: #fff url("../../images/heading/G009/black/h2-image.png") no-repeat right bottom;
+  border: 1px solid #e7e7e7;
+}
+h3.h3-G009-black {
+  margin-top: 0;
+  padding: 10px;
+  color: #333;
+  font-size: 20px;
+  font-weight: normal;
+  border: 3px solid #ccc;
+  border-style: double;
+}
+h4.h4-G009-black {
+  display: inline;
+  margin-top: 0;
+  padding: 9px 3px 0 3px;
+  color: #252525;
+  font-size: 16px;
+  line-height: 1.8em;
+  font-weight: normal;
+  background: url("../../images/heading/G009/black/marker-line.png") repeat-x left bottom;
+}
+h2.h2-G009-colorful {
+  margin-top: 0;
+  padding: 25px 15px 25px 20px;
+  color: #765530;
+  font-size: 20px;
+  font-weight: normal;
+  background: #fff url("../../images/heading/G009/colorful/h2-image.png") no-repeat right bottom;
+  border: 1px solid #27aaab;
+}
+h3.h3-G009-colorful {
+  margin-top: 0;
+  padding: 10px;
+  color: #32a756;
+  font-size: 20px;
+  font-weight: normal;
+  border: 3px solid #27aaab;
+  border-style: double;
+}
+h4.h4-G009-colorful {
+  display: inline;
+  margin-top: 0;
+  padding: 9px 3px 0 3px;
+  color: #e94f12;
+  font-size: 16px;
+  line-height: 1.8em;
+  font-weight: normal;
+  background: url("../../images/heading/G009/colorful/marker-line.png") repeat-x left bottom;
+}

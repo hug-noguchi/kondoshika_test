@@ -1,0 +1,96 @@
+@charset "UTF-8";
+.span12 ul#footer-link-list li,
+.span11 ul#footer-link-list li,
+.span10 ul#footer-link-list li {
+  width: 19%;
+  margin: 0 1% 10px 0;
+}
+.span9 ul#footer-link-list li,
+.span8 ul#footer-link-list li,
+.span7 ul#footer-link-list li {
+  width: 24%;
+  margin: 0 1% 10px 0;
+}
+.span6 ul#footer-link-list li,
+.span5 ul#footer-link-list li,
+.span4 ul#footer-link-list li {
+  width: 49%;
+  margin: 0 1% 10px 0;
+}
+.span3 ul#footer-link-list li {
+  width: 100%;
+  margin: 0 0 10px 0;
+}
+footer {
+  margin-top: 20px;
+        margin-bottom: 26px;
+}
+footer [data-module-type=footer-logo] {
+  line-height: 1.2em;
+  font-size: 1.8em;
+  font-weight: bold;
+}
+footer [data-module-type=cell] {
+  margin-bottom: 0;
+}
+footer [data-module-type=paragraph-editable],
+footer [data-module-type=pwithimg-editable],
+footer [data-module-type=gallery] {
+  padding: 0 !important;
+  background: none !important;
+}
+@media (max-width: 767px) {
+  footer [class*="span"] {
+    padding: 20px 0 0 0;
+  }
+}
+footer ul.footer-link-cute-red li a,
+footer ul.footer-link-cute-orange li a,
+footer ul.footer-link-cute-yellow li a,
+footer ul.footer-link-cute-yellowgreen li a,
+footer ul.footer-link-cute-green li a,
+footer ul.footer-link-cute-aqua li a,
+footer ul.footer-link-cute-blue li a,
+footer ul.footer-link-cute-brown li a,
+footer ul.footer-link-cute-pink li a,
+footer ul.footer-link-cute-purple li a,
+footer ul.footer-link-cute-black li a,
+footer ul.footer-link-cute-colorful li a {
+  padding-left: 15px;
+}
+footer ul.footer-link-cute-red li a {
+  background: url("../../images/footer/cute/red/arrow_sub.png") no-repeat 0 5px;
+}
+footer ul.footer-link-cute-orange li a {
+  background: url("../../images/footer/cute/orange/arrow_sub.png") no-repeat 0 5px;
+}
+footer ul.footer-link-cute-yellow li a {
+  background: url("../../images/footer/cute/yellow/arrow_sub.png") no-repeat 0 5px;
+}
+footer ul.footer-link-cute-yellowgreen li a {
+  background: url("../../images/footer/cute/yellow-green/arrow_sub.png") no-repeat 0 5px;
+}
+footer ul.footer-link-cute-green li a {
+  background: url("../../images/footer/cute/green/arrow_sub.png") no-repeat 0 5px;
+}
+footer ul.footer-link-cute-aqua li a {
+  background: url("../../images/footer/cute/aqua/arrow_sub.png") no-repeat 0 5px;
+}
+footer ul.footer-link-cute-blue li a {
+  background: url("../../images/footer/cute/blue/arrow_sub.png") no-repeat 0 5px;
+}
+footer ul.footer-link-cute-brown li a {
+  background: url("../../images/footer/cute/brown/arrow_sub.png") no-repeat 0 5px;
+}
+footer ul.footer-link-cute-pink li a {
+  background: url("../../images/footer/cute/pink/arrow_sub.png") no-repeat 0 5px;
+}
+footer ul.footer-link-cute-purple li a {
+  background: url("../../images/footer/cute/purple/arrow_sub.png") no-repeat 0 5px;
+}
+footer ul.footer-link-cute-black li a {
+  background: url("../../images/footer/cute/black/arrow_sub.png") no-repeat 0 5px;
+}
+footer ul.footer-link-cute-colorful li a {
+  background: url("../../images/footer/cute/colorful/arrow_sub.png") no-repeat 0 5px;
+}
