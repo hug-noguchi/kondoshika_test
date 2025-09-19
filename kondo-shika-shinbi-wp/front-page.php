@@ -39,7 +39,7 @@ remove_filter( 'the_content', 'wpautop' );
     </div>
 <?php echo get_field( 'frontpage_about' ) ?>
 <!--出力-->
-<div class="c-relation-lg  is-top">
+<div class="c-relation-lg is-top">
     <div class="c-relation-lg__inner">
         <div class="l-container">
             <div class="c-relation-lg__title">
