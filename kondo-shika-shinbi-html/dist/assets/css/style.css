@@ -17474,3 +17474,48 @@ article {
         height: auto;
     }
 }
+
+/* .c-lower-about-top__points--top {
+    max-width: 1320px;
+    margin: 40px auto 0;
+    width: 100%;
+}
+.c-lower-about-top__point--top {
+    align-items: center;
+    padding: 46px 0;
+}
+@media screen and (min-width: 0em) and (max-width: 59.3125em) {
+    .c-lower-about-top__points--top {
+        margin: 16px auto 0;
+        padding: 0 16px;
+    }
+    .c-lower-about-top__point--top {
+        align-items: unset;
+        padding: 16px 0;
+    }
+} */
+
+/* トップページ 小児矯正治療について */
+.c-about-top__blocks--top {
+    display: block;
+}
+.c-about-top__block--top {
+    width: 100%;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+.c-about-top__block02--top {
+    width: 100%;
+}
+.c-about-top__blocks--top {
+    display: block;
+}
+@media screen and (min-width: 0em) and (max-width: 59.3125em) {
+    .c-about-top__block--top {
+        display: block;
+    }
+    .c-lower-about-top__point--top {
+        padding: 34px 0;
+    }
+}
